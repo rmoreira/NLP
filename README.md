@@ -1,2 +1,1 @@
-# csce5290-ice-1
-CSCE5290 ICE 1
+# NLP
